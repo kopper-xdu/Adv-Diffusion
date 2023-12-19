@@ -1,4 +1,20 @@
-# Adv-Diffusion
+# Adv-Diffusion: Imperceptible Adversarial Face Identity Attack via Latent Diffusion Model
+Official code for [Adv-Diffusion: Imperceptible Adversarial Face Identity Attack via Latent Diffusion Model](). 
+
+
+## Abstract
+Adversarial attacks involve adding perturbations to the source
+image to cause misclassification by the target model, which
+demonstrates the potential of attacking face recognition models. Existing adversarial face image generation methods still
+can’t achieve satisfactory performance because of low transferability and high detectability. In this paper, we propose
+a unified framework Adv-Diffusion that can generate imperceptible adversarial identity perturbations in the latent
+space but not the raw pixel space, which utilizes strong inpainting capabilities of the latent diffusion model to generate realistic adversarial images. Specifically, we propose the
+identity-sensitive conditioned diffusion generative model to
+generate semantic perturbations in the surroundings. The designed adaptive strength-based adversarial perturbation algorithm can ensure both attack transferability and stealthiness. Extensive qualitative and quantitative experiments
+on the public FFHQ and CelebA-HQ datasets prove the
+proposed method achieves superior performance compared
+with the state-of-the-art methods without an extra generative model training process. The source code is available at
+https://github.com/kopper-xdu/Adv-Diffusion.
 
 ## Install
 
