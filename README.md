@@ -1,5 +1,5 @@
 # Adv-Diffusion: Imperceptible Adversarial Face Identity Attack via Latent Diffusion Model
-Official code for [Adv-Diffusion: Imperceptible Adversarial Face Identity Attack via Latent Diffusion Model](). 
+Official code for [Adv-Diffusion: Imperceptible Adversarial Face Identity Attack via Latent Diffusion Model](https://arxiv.org/abs/2312.11285v2). 
 
 
 ## Abstract
@@ -72,4 +72,17 @@ conda env create -f env.yaml
 
 ```bash
 bash eval.sh
+```
+
+## BibTeX
+
+```
+@misc{liu2023advdiffusion,
+      title={Adv-Diffusion: Imperceptible Adversarial Face Identity Attack via Latent Diffusion Model}, 
+      author={Decheng Liu and Xijun Wang and Chunlei Peng and Nannan Wang and Ruiming Hu and Xinbo Gao},
+      year={2023},
+      eprint={2312.11285},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
