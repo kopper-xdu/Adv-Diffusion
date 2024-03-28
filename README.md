@@ -77,12 +77,13 @@ bash eval.sh
 ## BibTeX
 
 ```
-@misc{liu2023advdiffusion,
-      title={Adv-Diffusion: Imperceptible Adversarial Face Identity Attack via Latent Diffusion Model}, 
-      author={Decheng Liu and Xijun Wang and Chunlei Peng and Nannan Wang and Ruiming Hu and Xinbo Gao},
-      year={2023},
-      eprint={2312.11285},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{liu2024adv,
+  title={Adv-diffusion: imperceptible adversarial face identity attack via latent diffusion model},
+  author={Liu, Decheng and Wang, Xijun and Peng, Chunlei and Wang, Nannan and Hu, Ruimin and Gao, Xinbo},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={4},
+  pages={3585--3593},
+  year={2024}
 }
 ```
