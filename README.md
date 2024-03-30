@@ -1,4 +1,4 @@
-# Adv-Diffusion: Imperceptible Adversarial Face Identity Attack via Latent Diffusion Model
+# Adv-Diffusion: Imperceptible Adversarial Face Identity Attack via Latent Diffusion Model (AAAI 2024)
 Official code for [Adv-Diffusion: Imperceptible Adversarial Face Identity Attack via Latent Diffusion Model](https://arxiv.org/abs/2312.11285v2). 
 
 
