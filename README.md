@@ -1,6 +1,10 @@
 # Adv-Diffusion: Imperceptible Adversarial Face Identity Attack via Latent Diffusion Model
 Official code for [Adv-Diffusion: Imperceptible Adversarial Face Identity Attack via Latent Diffusion Model](https://arxiv.org/abs/2312.11285v2) (AAAI 2024). 
 
+Decheng Liu<sup>\*1</sup>, Xijun Wang<sup>\*1</sup>, Chunlei Peng<sup>†1</sup>, Nannan Wang<sup>1</sup>, Ruimin Hu<sup>1</sup>, Xinbo Gao<sup>2</sup>
+
+<sup>1</sup>Xidian University, <sup>2</sup>Chongqing University of Posts and Telecommunications
+
 
 ## Abstract
 Adversarial attacks involve adding perturbations to the source image to cause misclassification by the target model, which
@@ -74,7 +78,7 @@ conda env create -f env.yaml
 bash eval.sh
 ```
 
-## BibTeX
+## Citation
 
 ```
 @inproceedings{liu2024adv,
@@ -87,3 +91,5 @@ bash eval.sh
   year={2024}
 }
 ```
+
+If you have any questions, please contact xdu [DOT] xjwang [AT] gmail [DOT] com.
