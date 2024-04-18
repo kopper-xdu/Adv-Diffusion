@@ -16,7 +16,7 @@ identity-sensitive conditioned diffusion generative model to
 generate semantic perturbations in the surroundings. The designed adaptive strength-based adversarial perturbation algorithm can ensure both attack transferability and stealthiness. Extensive qualitative and quantitative experiments
 on the public FFHQ and CelebA-HQ datasets prove the
 proposed method achieves superior performance compared
-with the state-of-the-art methods without an extra generative model training process. The source code is available at https://github.com/kopper-xdu/Adv-Diffusion.
+with the state-of-the-art methods without an extra generative model training process.
 
 ## Install
 
