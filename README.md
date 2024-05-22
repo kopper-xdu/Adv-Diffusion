@@ -92,4 +92,4 @@ bash eval.sh
 }
 ```
 
-If you have any questions, please contact xdu [DOT] xjwang [AT] gmail [DOT] com.
+If you have any questions, please contact xijunwang00 [AT] gmail [DOT] com.
